@@ -11,7 +11,12 @@ Exercise obj = new Exercise();
 obj.exampleReturn("Hello World 2");
 
         Exercise para = new Exercise();
-        System.out.println(para.addi (5,0, true));
+        System.out.println(para.addition (0,1, true));
+
+
+        Iteration answer = new Iteration();
+        answer.forloop();
+
     }
 
 }
