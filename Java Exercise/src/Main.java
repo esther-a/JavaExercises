@@ -14,8 +14,14 @@ obj.exampleReturn("Hello World 2");
         System.out.println(para.addition (0,1, true));
 
 
+        /*
         Iteration answer = new Iteration();
         answer.forloop();
+        */
+
+/*Array array = new Array ();
+array.display();
+*/
 
     }
 
